@@ -1,7 +1,12 @@
 <h1>Zauth authentication</h1>
 
-
-
+steps for downloading
+<h2>1) git clone "https://github.com/shreyaszadge/django_auth.git"</h2>
+<h2>2)cd django_auth</h2>
+<h2>3)python3 manage.py makemigrations</h2>
+<h2>4)python3 manage.py migrate</h2>
+<h2>5)python3 manage.py  createsuperuser</h2>
+<h2>6)python3 manage.py runserver</h2>
 
 
 
