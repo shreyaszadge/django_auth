@@ -26,6 +26,10 @@ Finally, run the development server:
 python manage.py runserver
 
 
+
+
+
+
 <h1>project screenshots</h1>
 
 <img src="https://user-images.githubusercontent.com/68802737/179529880-c42766ea-6725-494f-a38d-85e94a7ae526.png"></img>
